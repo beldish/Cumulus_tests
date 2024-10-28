@@ -1,0 +1,7 @@
+#!/bin/sh
+#SBATCH --time=1
+/bin/hostname
+srun -k /bin/hostname
+srun -l /bin/pwd
+
+

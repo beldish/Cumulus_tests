@@ -1,0 +1,5 @@
+module load Emacs/27.2-GCCcore-11.3.0
+module load NVHPC/22.11-CUDA-11.7.0
+module load CUDA/11.7.0
+
+
